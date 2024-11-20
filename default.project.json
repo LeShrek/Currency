@@ -1,0 +1,12 @@
+{
+  "name": "Currency",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Currency": {
+        "$path": "src/MainModule"
+      }
+    }
+  }
+}
